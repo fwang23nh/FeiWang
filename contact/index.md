@@ -9,11 +9,9 @@ title: Contact
 
 fwang23nh@gmail.com
 
-
 ### GitHub
 
-https://github.com/fwang23nh
-
+[My GitHub](https://github.com/fwang23nh)
 
 
 ### Office

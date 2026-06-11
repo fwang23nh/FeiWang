@@ -1,6 +1,6 @@
 # Code
 
-## Snapshot Retrieval Framework: **Brewster_V2**
+## Snapshot Retrieval Framework: [**Brewster_V2**](https://github.com/fwang23nh/brewster_v2)
 
 <details>
 <summary>GitHub</summary>
@@ -20,12 +20,10 @@ It is optimized for interpreting observations from facilities including JWST, HS
 * Cloud, chemistry, and temperature parameterizations  
 * High-performance likelihood evaluation and modular architecture  
 
-**GitHub:**  
-https://github.com/fwang23nh/brewster_v2
 
 ---
 
-## Time-resolved Retrieval Framework: **Tempawral**
+## Time-resolved Retrieval Framework: [**Tempawral**](https://github.com/fwang23nh/Tempawral)
 
 **Tempawral** is a time-resolved atmospheric retrieval framework developed to characterize rotational variability in brown dwarfs and directly imaged exoplanets. Instead of treating each spectrum independently, Tempawral models the temporal evolution of spectral variability using a data-driven eigen-spectra decomposition, enabling robust inference of the physical mechanisms driving atmospheric changes.
 
@@ -40,5 +38,3 @@ The framework is particularly suited for JWST time-series spectroscopy and can b
 * Physical interpretation of variability: clouds, chemistry, temperature, aurorae  
 * Modular framework for extension to new instruments and targets  
 
-**GitHub:**  
-https://github.com/fwang23nh/Tempawral

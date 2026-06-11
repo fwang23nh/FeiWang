@@ -32,14 +32,8 @@ title: Publications
 
 - Wang, F., Ben, B., et al. (2026).  
   <a href="https://academic.oup.com/mnras/article/547/4/stag392/8499616">
-  <strong>A Time-Resolved Retrieval Framework for Variable Brown Dwarfs and Exoplanets.</strong>
+  <strong><code>Tempawral</code>: A Time-Resolved Retrieval Framework for Variable Brown Dwarfs and Exoplanets.</strong>
   </a>  
-  <em>MNRAS</em>
-
----
-
-- Wang, F., Ben, B., et al. (2026).  
-  <strong><code>Tempawral</code>: A Time-Resolved Retrieval Framework for Variable Brown Dwarfs and Exoplanets.</strong>  
   <em>MNRAS</em>
 
 ---
