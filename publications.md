@@ -5,22 +5,16 @@ title: Publications
 
 # Publications
 
-## 2026
+<div class="card">
+<b>2026</b><br>
+Fei et al. — JWST/NIRISS variability in W1935<br>
+<i>ApJ</i>
+</div>
 
-**Fei et al.**
-Title of paper
+<div class="card">
+<b>2025</b><br>
+Fei et al. — Atmospheric retrieval framework<br>
+<i>MNRAS</i>
+</div>
 
-*Astrophysical Journal*
-
----
-
-## 2025
-
-**Fei et al.**
-Title of paper
-
-*MNRAS*
-
----
-
-A complete publication list is available through ADS and Google Scholar.
+See ADS for full list.

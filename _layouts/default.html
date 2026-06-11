@@ -1,59 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ page.title }} | {{ site.title }}</title>
 
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 
 <body>
 
-<div class="container">
+<header class="site-header">
+  <div class="container">
 
-<header>
+    <div class="brand">
+      <a href="/">Fei</a>
+    </div>
 
-<h1>
-<a href="/">Fei</a>
-</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/research/">Research</a>
+      <a href="/publications/">Publications</a>
+      <a href="/code/">Code</a>
+      <a href="/cv/">CV</a>
+      <a href="/contact/">Contact</a>
+    </nav>
 
-<p class="subtitle">
-Postdoctoral Researcher<br>
-University of Hertfordshire
-</p>
-
-<nav>
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/research/">Research</a>
-<a href="/publications/">Publications</a>
-<a href="/code/">Code</a>
-<a href="/cv/">CV</a>
-<a href="/contact/">Contact</a>
-</nav>
-
-<hr>
-
+  </div>
 </header>
 
-<main>
-{{ content }}
+<main class="container content">
+  {{ content }}
 </main>
 
-<footer>
-
-<hr>
-
-<p>
-© {{ site.time | date: '%Y' }} Fei
-</p>
-
+<footer class="footer">
+  <div class="container">
+    © {{ site.time | date: "%Y" }} Fei
+  </div>
 </footer>
-
-</div>
 
 </body>
 </html>

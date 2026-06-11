@@ -1,16 +1,4 @@
 title: Fei
-description: Exoplanets, Brown Dwarfs, Atmospheric Retrievals
-author: Fei
-
-theme: null
-
+description: Exoplanets • Brown Dwarfs • Atmospheric Retrievals
 markdown: kramdown
-
 permalink: pretty
-
-plugins:
-  - jekyll-feed
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
