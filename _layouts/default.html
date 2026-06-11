@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<h1>
+<a href="/">Fei</a>
+</h1>
+
+<p class="subtitle">
+Postdoctoral Researcher<br>
+University of Hertfordshire
+</p>
+
+<nav>
+<a href="/">Home</a>
+<a href="/about/">About</a>
+<a href="/research/">Research</a>
+<a href="/publications/">Publications</a>
+<a href="/code/">Code</a>
+<a href="/cv/">CV</a>
+<a href="/contact/">Contact</a>
+</nav>
+
+<hr>
+
+</header>
+
+<main>
+{{ content }}
+</main>
+
+<footer>
+
+<hr>
+
+<p>
+© {{ site.time | date: '%Y' }} Fei
+</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
