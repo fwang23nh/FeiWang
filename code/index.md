@@ -2,13 +2,6 @@
 
 ## Snapshot Retrieval Framework: [**Brewster_V2**](https://github.com/fwang23nh/brewster_v2)
 
-<details>
-<summary>GitHub</summary>
-
-https://github.com/fwang23nh/brewster_v2
-
-</details>
-
 **Brewster_V2** is an upgraded version of the original Brewster framework (https://github.com/substellar/brewster), designed for atmospheric retrievals of exoplanets and brown dwarfs. The code combines radiative transfer calculations with statistical inference techniques to constrain atmospheric properties such as temperature structure, chemical abundances, cloud properties, and bulk properties.
 
 It is optimized for interpreting observations from facilities including JWST, HST, and ground-based instruments, and supports flexible atmospheric parameterizations suitable for a wide range of substellar atmospheres.

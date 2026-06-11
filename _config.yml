@@ -1,4 +1,7 @@
-title: Fei
+title: Fei Wang
 description: Exoplanets • Brown Dwarfs • Atmospheric Retrievals
+
+baseurl: "/FeiWang"
+
 markdown: kramdown
 permalink: pretty
