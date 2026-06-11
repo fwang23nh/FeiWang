@@ -7,7 +7,7 @@ title: CV
 
 Download PDF:
 
-[CV (PDF)](/assets/cv.pdf)
+[CV (PDF)](/assets/CV.pdf)
 
 <iframe
 src="/assets/cv.pdf"

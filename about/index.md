@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm Fei
 
-<img src="/assets/profile.jpg" class="profile">
+<img src="/assets/me.jpg" class="profile">
 
 I am a researcher working on **exoplanet and brown dwarf atmospheres**, focusing on atmospheric retrievals, JWST spectroscopy, polarimetry, and radiative transfer.
 
