@@ -3,52 +3,84 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Fei
+<section class="hero">
 
-<img src="/assets/me.png" class="profile">
+<div>
 
-I am a researcher working on **exoplanet and brown dwarf atmospheres**, focusing on atmospheric retrievals, JWST spectroscopy, polarimetry, and radiative transfer.
+<h1>
+Fei Wang
+</h1>
 
----
+<p>
 
-## Research Focus
+Postdoctoral Researcher
+
+<br><br>
+
+I study exoplanet and brown dwarf atmospheres using atmospheric retrievals, spectroscopy, polarimetry, and radiative transfer modelling.
+
+</p>
+
+</div>
+
+<div>
+
+<img src="{{ '/assets/images/profile.jpg' | relative_url }}">
+
+</div>
+
+</section>
+
+<section class="section">
+
+<h2>
+Selected Research
+</h2>
 
 <div class="grid">
 
-<div class="card">
-<b>Atmospheric Retrievals</b><br>
-Inferring composition, temperature structure, and clouds from spectra.
-</div>
+<div class="project">
 
-<div class="card">
-<b>Brown Dwarf Weather</b><br>
-Time variability, patchy clouds, and rotational modulations.
-</div>
+<img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
 
-<div class="card">
-<b>JWST Observations</b><br>
-High precision spectroscopy of cool atmospheres.
-</div>
+<h3>
+Atmospheric Retrievals
+</h3>
 
-<div class="card">
-<b>Polarimetry</b><br>
-Scattering and cloud structure constraints.
-</div>
+<p>
+Inferring atmospheric properties from spectra using Bayesian methods.
+</p>
 
 </div>
 
----
+<div class="project">
 
-## Recent Highlights
+<img src="{{ '/assets/images/jwst.jpg' | relative_url }}">
 
-<div class="card">
-JWST/NIRISS time-series of W1935 — variability + auroral processes
+<h3>
+JWST Spectroscopy
+</h3>
+
+<p>
+Time-series observations of brown dwarfs and exoplanets.
+</p>
+
 </div>
 
-<div class="card">
-New retrieval framework for substellar atmospheres
+<div class="project">
+
+<img src="{{ '/assets/images/variability.jpg' | relative_url }}">
+
+<h3>
+Brown Dwarf Weather
+</h3>
+
+<p>
+Understanding clouds, chemistry, and variability.
+</p>
+
 </div>
 
-<div class="card">
-Cloud-driven variability in brown dwarfs
 </div>
+
+</section>
