@@ -17,7 +17,25 @@ Postdoctoral Researcher
 
 <br><br>
 
-I study exoplanet and brown dwarf atmospheres using atmospheric retrievals, spectroscopy, polarimetry, and radiative transfer modelling.
+Welcome! 
+
+I am a postdoctoral researcher at the University of Hertfordshire, UK.
+
+I study exoplanet and brown dwarf atmospheres mostly by using multiple modleing technqiues including atmospheric retrievals, time-series spectroscopy, polarimetry.
+My work focuses on theoretical modelling that reveal the atmospheric peroperties of exoplanet and brown dwarf. By simualted the obsevational features that can be decteted by near-future telescope and compare our predictions of atmospheric spectra with observations from JWST.
+
+
+On this website you will find information about me.
+
+Contact information:
+University of Hertfordshire
+College Ln, Hatfield 
+UK
+
+Email: click envelope icon below.
+
+
+
 
 </p>
 
@@ -25,7 +43,7 @@ I study exoplanet and brown dwarf atmospheres using atmospheric retrievals, spec
 
 <div>
 
-<img src="{{ '/assets/images/profile.jpg' | relative_url }}">
+<img src="{{ '/assets/images/me.jpg' | relative_url }}">
 
 </div>
 
