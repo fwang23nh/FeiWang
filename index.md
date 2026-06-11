@@ -12,28 +12,40 @@ Fei Wang
 </h1>
 
 <p>
-
 Postdoctoral Researcher
+</p>
 
-<br><br>
+<br>
 
-Welcome! 
+<p>
+Welcome!
+</p>
 
+<p>
 I am a postdoctoral researcher at the University of Hertfordshire, UK.
+</p>
 
-I study exoplanet and brown dwarf atmospheres mostly by using multiple modleing technqiues including atmospheric retrievals, time-series spectroscopy, polarimetry.
-My work focuses on theoretical modelling that reveal the atmospheric peroperties of exoplanet and brown dwarf. By simualted the obsevational features that can be decteted by near-future telescope and compare our predictions of atmospheric spectra with observations from JWST.
+<p>
+I study exoplanet and brown dwarf atmospheres using multiple modelling techniques, including atmospheric retrievals, time-series spectroscopy, and polarimetry.
+</p>
 
+<p>
+My work focuses on theoretical modelling that reveals atmospheric properties of exoplanets and brown dwarfs. I simulate observational features detectable by near-future telescopes and compare predicted spectra with JWST observations.
+</p>
 
+<p>
 On this website you will find information about me.
+</p>
 
-Contact information:
-University of Hertfordshire
-College Ln, Hatfield 
-UK
+<br>
 
+<p>
+Contact information:<br>
+University of Hertfordshire<br>
+College Ln, Hatfield<br>
+UK<br><br>
 Email: click envelope icon below.
-
+</p>
 
 
 
@@ -64,15 +76,14 @@ Selected Research
 <img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
 
 <h3>
-
-</h3>
 Time-resolved retrievals
+</h3>
+
 <p>
 Infering variability mechanisms from time-resolved retrievals 
 </p>
 
 </div>
-
 
 
 
