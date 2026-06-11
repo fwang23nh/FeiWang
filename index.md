@@ -48,14 +48,11 @@ Email: click envelope icon below.
 </p>
 
 
-
-</p>
-
 </div>
 
 <div>
 
-<img src="{{ '/assets/images/me.jpg' | relative_url }}">
+<img src="{{ '/assets/images/me.png' | relative_url }}">
 
 </div>
 
@@ -73,7 +70,7 @@ Selected Research
 
 <div class="project">
 
-<img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
+<img src="{{ '/assets/images/Tretrieval.png' | relative_url }}">
 
 <h3>
 Time-resolved retrievals
@@ -89,7 +86,7 @@ Infering variability mechanisms from time-resolved retrievals
 
 <div class="project">
 
-<img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
+<img src="{{ '/assets/images/weather.png' | relative_url }}">
 
 <h3>
 Brown Dwarf Weather
@@ -107,7 +104,7 @@ Brown Dwarf Weather
 
 <div class="project">
 
-<img src="{{ '/assets/images/jwst.jpg' | relative_url }}">
+<img src="{{ '/assets/images/polarization.png' | relative_url }}">
 
 <h3>
 Spectropolarimetry of Brown Dwarfs
@@ -122,7 +119,7 @@ Inferring atmospheric properties from spectropolarimetry
 
 <div class="project">
 
-<img src="{{ '/assets/images/variability.jpg' | relative_url }}">
+<img src="{{ '/assets/images/biosignature.png' | relative_url }}">
 
 <h3>
 
