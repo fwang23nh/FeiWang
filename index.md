@@ -57,44 +57,70 @@ Selected Research
 
 <div class="grid">
 
+
+
 <div class="project">
 
 <img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
 
 <h3>
-Atmospheric Retrievals
-</h3>
 
+</h3>
+Time-resolved retrievals
 <p>
-Inferring atmospheric properties from spectra using Bayesian methods.
+Infering variability mechanisms from time-resolved retrievals 
 </p>
 
 </div>
 
-<div class="project">
 
-<img src="{{ '/assets/images/jwst.jpg' | relative_url }}">
 
-<h3>
-JWST Spectroscopy
-</h3>
-
-<p>
-Time-series observations of brown dwarfs and exoplanets.
-</p>
-
-</div>
 
 <div class="project">
 
-<img src="{{ '/assets/images/variability.jpg' | relative_url }}">
+<img src="{{ '/assets/images/retrieval.jpg' | relative_url }}">
 
 <h3>
 Brown Dwarf Weather
 </h3>
 
 <p>
-Understanding clouds, chemistry, and variability.
+
+ Understanding clouds, chemistry, and aurorae.
+
+</p>
+
+</div>
+
+
+
+<div class="project">
+
+<img src="{{ '/assets/images/jwst.jpg' | relative_url }}">
+
+<h3>
+Spectropolarimetry of Brown Dwarfs
+</h3>
+<p>
+Inferring atmospheric properties from spectropolarimetry
+</p>
+
+</div>
+
+
+
+<div class="project">
+
+<img src="{{ '/assets/images/variability.jpg' | relative_url }}">
+
+<h3>
+
+Surface Biosignatures 
+
+</h3>
+
+<p>
+Detecting Surface Biosignatures on Earth-like Exoplanets
 </p>
 
 </div>
