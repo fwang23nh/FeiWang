@@ -7,19 +7,14 @@ title: Contact
 
 ### Email
 
-your.email@herts.ac.uk
+fwang23nh@gmail.com
 
-### ORCID
-
-0000-0000-0000-0000
 
 ### GitHub
 
-https://github.com/yourusername
+https://github.com/fwang23nh
 
-### ADS
 
-ADS profile link
 
 ### Office
 
