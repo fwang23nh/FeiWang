@@ -18,11 +18,7 @@ Postdoctoral Researcher
 <br>
 
 <p>
-Welcome!
-</p>
-
-<p>
-I am a postdoctoral researcher at the University of Hertfordshire, UK.
+Welcome! I am a postdoctoral researcher at the University of Hertfordshire, UK.
 </p>
 
 <p>
