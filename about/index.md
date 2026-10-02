@@ -5,8 +5,6 @@ title: About
 
 # About
 
-I am a postdoctoral researcher at the University of Hertfordshire.
+I am a postdoctoral researcher at the University of Hertfordshire studying the atmospheres of exoplanets and brown dwarfs.
 
-My work combines observations, atmospheric retrieval techniques, and theoretical modelling to study the atmospheres of exoplanets and brown dwarfs.
-
-I obtained my PhD in Astronomy and continue to develop methods for characterising planetary atmospheres using spectroscopy and polarimetry.
+My work combines spectroscopy and polarimetry with atmospheric retrievals and theoretical modelling to explore atmospheric composition, clouds, and structure, as well as their implications for planetary habitability.
