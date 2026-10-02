@@ -26,12 +26,7 @@ I am a postdoctoral researcher at the University of Hertfordshire, UK.
 </p>
 
 <p>
-I study exoplanet and brown dwarf atmospheres.
-</p>
-
-<p>
-My work combines spectroscopy and polarimetry with atmospheric retrievals and theoretical modelling to explore atmospheric composition, clouds, and structure, as well as their implications for planetary habitability.
-
+I study exoplanet and brown dwarf atmospheres. My work combines spectroscopy and polarimetry with atmospheric retrievals and theoretical modelling to explore atmospheric composition, clouds, and structure, as well as their implications for planetary habitability.
 </p>
 
 <p>
