@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research
+---
+
 # Research
 
 ## Time-resolved Retrievals

@@ -61,14 +61,14 @@ Email: click envelope icon below.
 <section class="section">
 
 <h2>
-Selected Research
+<a href="{{ '/research/' | relative_url }}">Selected Research</a>
 </h2>
 
 <div class="grid">
 
 
 
-<div class="project">
+<a class="project" href="{{ '/research/' | relative_url }}">
 
 <img src="{{ '/assets/images/Tretrieval.png' | relative_url }}">
 
@@ -80,11 +80,11 @@ Time-resolved retrievals
 Infering variability mechanisms from time-resolved retrievals 
 </p>
 
-</div>
+</a>
 
 
 
-<div class="project">
+<a class="project" href="{{ '/research/' | relative_url }}">
 
 <img src="{{ '/assets/images/weather.png' | relative_url }}">
 
@@ -98,11 +98,11 @@ Brown Dwarf Weather
 
 </p>
 
-</div>
+</a>
 
 
 
-<div class="project">
+<a class="project" href="{{ '/research/' | relative_url }}">
 
 <img src="{{ '/assets/images/polarization.png' | relative_url }}">
 
@@ -113,11 +113,11 @@ Spectropolarimetry of Brown Dwarfs
 Inferring atmospheric properties from spectropolarimetry
 </p>
 
-</div>
+</a>
 
 
 
-<div class="project">
+<a class="project" href="{{ '/research/' | relative_url }}">
 
 <img src="{{ '/assets/images/biosignature.png' | relative_url }}">
 
@@ -131,7 +131,7 @@ Surface Biosignatures
 Detecting Surface Biosignatures on Earth-like Exoplanets
 </p>
 
-</div>
+</a>
 
 </div>
 
