@@ -36,7 +36,7 @@ Contact information:<br>
 University of Hertfordshire<br>
 College Ln, Hatfield<br>
 UK<br><br>
-Email: click envelope icon below.
+Email: fwang23nh@gmail.com
 </p>
 
 
