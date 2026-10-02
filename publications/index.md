@@ -40,13 +40,13 @@ title: Publications
 
 - Wang, F., Ben, B., et al. (2026).  
   <strong>Auroral Heating and Chemistry on an M Dwarf I: Extreme-Amplitude Spectral Retrievals with JWST/NIRISS-SOSS</strong>  
-  <em>in preparation, MNRAS</em>
+  <em>Submitted, MNRAS</em>
 
 ---
 
 - Wang, F., Ben, B., et al. (2026).  
   <strong>Auroral Heating and Chemistry on an M Dwarf II: Time-Resolved Retrievals from JWST/NIRISS-SOSS</strong>  
-  <em>in preparation, MNRAS</em>
+  <em>Submitted, MNRAS</em>
 
 ---
 

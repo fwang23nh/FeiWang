@@ -52,7 +52,7 @@ Email: click envelope icon below.
 
 <div>
 
-<img src="{{ '/assets/images/me.png' | relative_url }}">
+<img src="{{ '/assets/images/me.jpg' | relative_url }}">
 
 </div>
 
